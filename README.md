@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://wa.me/+994776030608" target="_blank">
+  <a href="https://wa.me/+994776030608">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://t.me/ruslan_301001" target="_blank">
+  <a href="https://t.me/ruslan_301001">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:ruslanabdullayev01@gmail.com" target="_blank">
+  <a href="mailto:ruslanabdullayev01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from Azerbaijan.
+My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  from Azerbaijan.
 - :zap: I write in C#, .Net, Asp.Net Core.
 - :mortar_board:  I also know Html, Css, JavaScript and others.
 - :computer: I have been interested in web development since 2020.
