@@ -29,7 +29,7 @@
 My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  from Azerbaijan.
 - :zap: I write in C#, .Net, Asp.Net Core.
 - :mortar_board:  I also know Html, Css, JavaScript and others.
-- :computer: I have been interested in web development since 2020.
+- :computer: I have been interested in web development since 2020 and I’m always learning new tools and approaches.
 - :boom: Currently, I am learning full stack development using Python and its framework Django.
 - :sunglasses: In my free time, I solve problems on HackerRank, write web applications and read tech articles.
 - :sparkles: I love creating interesting and useful projects that solve real problems or just make life better.
