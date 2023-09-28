@@ -33,7 +33,6 @@ My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy
 - :zap: I write in C#, .Net, Asp.Net Core.
 - :mortar_board:  I also know Html, Css, JavaScript and others.
 - :computer: I have been interested in web development since 2020 and I’m always learning new tools and approaches.
-- :boom: Currently, I am learning full stack development using Python and its framework Django.
 - :sunglasses: In my free time, I solve problems on HackerRank, write web applications and read tech articles.
 - :sparkles: I love creating interesting and useful projects that solve real problems or just make life better.
 - :v: I’m always open for collaboration, knowledge sharing and feedback.
@@ -55,10 +54,6 @@ My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
