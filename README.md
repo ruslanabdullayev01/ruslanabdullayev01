@@ -29,8 +29,8 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Ruslan. I am a Full Stack Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  from Azerbaijan.
-- :zap: I write in C#, .Net, Asp.Net Core.
+My name is Ruslan. I am a Software Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  from Azerbaijan.
+- :zap: I write in C#, .NET, ASP.NET Core.
 - :mortar_board:  I also know Html, Css, JavaScript and others.
 - :computer: I have been interested in web development since 2020 and I’m always learning new tools and approaches.
 - :sunglasses: In my free time, I solve problems on HackerRank, write web applications and read tech articles.
