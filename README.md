@@ -46,6 +46,7 @@ My name is Ruslan. I am a Software Developer <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net" alt="DotNet" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" title="Asp.Net Core" alt="Asp.Net Core" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MsSql" alt="MsSql" width="40" height="40"/>&nbsp;"
+   <img src="[https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;"
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
@@ -56,4 +57,5 @@ My name is Ruslan. I am a Software Developer <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
