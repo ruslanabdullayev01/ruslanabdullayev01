@@ -25,8 +25,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### :man_technologist: About Me :
 I am a highly motivated .NET Developer with a specialization in .NET technologies.
 My expertise includes C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL, Docker, Linux and etc. I am
