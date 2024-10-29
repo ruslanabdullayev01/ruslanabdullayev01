@@ -25,21 +25,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+[<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlzN2N2c2kxZDBxejRwb2l5MXBqbXozMmFvMTFlcW1seHZ3dDdtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350"/>
-</div>
+</div>](url)
 
 ---
 
 ### :man_technologist: About Me :
-My name is Ruslan. I am a Software Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  from Azerbaijan.
-- :zap: I write in C#, .NET, ASP.NET Core.
-- :mortar_board:  I also know Html, Css, JavaScript and others.
-- :computer: I have been interested in web development since 2020 and I’m always learning new tools and approaches.
-- :sunglasses: In my free time, I solve problems on HackerRank, write web applications and read tech articles.
-- :sparkles: I love creating interesting and useful projects that solve real problems or just make life better.
+I am a highly motivated .NET Developer with a specialization in .NET technologies.
+My expertise includes C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL, Docker, Linux and etc. I am
+passionate about my field and consistently seek to stay updated with the latest industry trends and
+advancements. With a strong problem-solving mindset and excellent communication skills, I excel in
+both independent and collaborative environments. I am eager to tackle new challenges and contribute
+to innovative projects.
 - :v: I’m always open for collaboration, knowledge sharing and feedback.
-- :e-mail: You can contact me by <a href="mailto:ruslanabdullayev01@gmail.com" target="_blank">Email</a>, <a href="https://wa.me/+994776030608" target="_blank">WhatsApp</a> or <a href="https://t.me/ruslan_301001" target="_blank">Telegram</a>.
+- :e-mail: You can contact me by <a href="mailto:ruslanabdullayev01@gmail.com" target="_blank">Email</a>.
 
 ---
 
