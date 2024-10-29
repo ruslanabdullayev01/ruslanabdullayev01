@@ -25,10 +25,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlzN2N2c2kxZDBxejRwb2l5MXBqbXozMmFvMTFlcW1seHZ3dDdtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350"/>
-</div>](url)
-
 ---
 
 ### :man_technologist: About Me :
