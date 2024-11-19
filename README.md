@@ -2,24 +2,6 @@
   <img src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" width="150"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://wa.me/+994776030608">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" width="114" height="28"/>
-  </a>
-  <a href="https://t.me/ruslanabdullayev01">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="114" height="28"/>
-  </a>
-  <a href="mailto:ruslanabdullayev01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="114" height="28"/>
-  </a>
-  <a href="https://www.instagram.com/ruslanabdullayev01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="114" height="28"/>
-  </a>
-   <a href="https://www.linkedin.com/in/ruslanabdullayev01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="114" height="28"/>
-  </a>
-</div>
-
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
