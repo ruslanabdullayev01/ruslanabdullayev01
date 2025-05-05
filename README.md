@@ -8,12 +8,9 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a highly motivated .NET Developer with a specialization in .NET technologies.
-My expertise includes C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL, Docker, Linux and etc. I am
-passionate about my field and consistently seek to stay updated with the latest industry trends and
-advancements. With a strong problem-solving mindset and excellent communication skills, I excel in
-both independent and collaborative environments. I am eager to tackle new challenges and contribute
-to innovative projects.
+Highly motivated and technically adept Software Engineer focused on designing and implementing scalable, secure, and maintainable backend systems using modern .NET technologies. Specialized in ASP.NET Core (MVC & Web API), with deep expertise in database design and efficient data access through Entity Framework Core and Dapper. Experienced in building RESTful APIs, enabling real-time communication via SignalR, and integrating RabbitMQ for distributed event-driven architectures. Skilled in writing unit and integration tests, ensuring high code quality using frameworks like xUnit, and Moq, and maintaining high code coverage.
+
+Actively exploring DevOps practices, with hands-on experience in Docker-based deployment, CI/CD workflows, and containerized development environments. Committed to delivering performant, scalable solutions with long-term maintainability in mind.
 - :v: I’m always open for collaboration, knowledge sharing and feedback.
 - :e-mail: You can contact me by <a href="mailto:ruslanabdullayev01@gmail.com" target="_blank">Email</a>.
 
