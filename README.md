@@ -8,9 +8,13 @@
 </h1>
 
 ### :man_technologist: About Me :
-Highly motivated and technically adept Software Engineer focused on designing and implementing scalable, secure, and maintainable backend systems using modern .NET technologies. Specialized in ASP.NET Core (MVC & Web API), with deep expertise in database design and efficient data access through Entity Framework Core and Dapper. Experienced in building RESTful APIs, enabling real-time communication via SignalR, and integrating RabbitMQ for distributed event-driven architectures. Skilled in writing unit and integration tests, ensuring high code quality using frameworks like xUnit, and Moq, and maintaining high code coverage.
+Experienced and results-driven Software Engineer with a strong background in building scalable, secure, and maintainable backend systems using modern .NET technologies. Specialized in ASP.NET Core (MVC & Web API), with deep expertise in database design — both relational (SQL) and non-relational (e.g., Redis) — leveraging tools like Entity Framework Core and Dapper for efficient data access.
 
-Actively exploring DevOps practices, with hands-on experience in Docker-based deployment, CI/CD workflows, and containerized development environments. Committed to delivering performant, scalable solutions with long-term maintainability in mind.
+Proficient in developing RESTful APIs, implementing real-time communication with SignalR, and integrating RabbitMQ for distributed, event-driven architectures. Skilled in writing thorough unit and integration tests using xUnit and Moq, ensuring high code quality and reliability.
+
+Actively exploring DevOps practices, with hands-on experience in Docker-based deployment and CI/CD pipelines. Comfortable working in Linux environments, primarily using them for containerization, deployment, and environment configuration. Experienced in setting up and using monitoring and logging tools such as Seq, Grafana, and Prometheus to ensure system health and observability.
+
+Passionate about clean architecture, performance optimization, and delivering long-term, maintainable solutions that align with business goals.
 - :v: I’m always open for collaboration, knowledge sharing and feedback.
 - :e-mail: You can contact me by <a href="mailto:ruslanabdullayev01@gmail.com" target="_blank">Email</a>.
 
